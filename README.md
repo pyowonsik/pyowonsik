@@ -19,7 +19,7 @@ class Developer {
     return {
       "mobile": ["Flutter", "Dart", "Kotlin", "Android"],
       "backend": ["NestJS", "TypeScript", "PostgreSQL"],
-      "learning": ["Riverpod", "Clean Architecture", "WebSocket"]
+      "Infra": ["EC2", "Docker", "S3" , "RDS]
     };
   }
 }
