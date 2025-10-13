@@ -1,7 +1,5 @@
 # 🚀 Mobile App Developer
 
-### Hello, nerds 📸
-
 I'm a Flutter & Android developer.  
 Recently, I've been exploring backend development & infrastructure with NestJS!
 
